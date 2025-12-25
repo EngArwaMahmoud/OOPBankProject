@@ -1,0 +1,600 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C\u002B\u002B\\OOPBankProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\OOPBankProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|solutionrelative:OOPBankProject\\OOPBankProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsAddNewUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|solutionrelative:OOPBankProject\\clsAddNewUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsAddNewClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|solutionrelative:OOPBankProject\\clsAddNewClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsManageUserMenue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|solutionrelative:OOPBankProject\\clsManageUserMenue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsShowBalanceListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|solutionrelative:OOPBankProject\\clsShowBalanceListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|solutionrelative:OOPBankProject\\clsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsUpdateUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|solutionrelative:OOPBankProject\\clsUpdateUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsWithdrawScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|solutionrelative:OOPBankProject\\clsWithdrawScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\Global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|solutionrelative:OOPBankProject\\Global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsTransactionScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|solutionrelative:OOPBankProject\\clsTransactionScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsDeleteClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|solutionrelative:OOPBankProject\\clsDeleteClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsCurrencyExchange.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|solutionrelative:OOPBankProject\\clsCurrencyExchange.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsCurrencyCalcScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|solutionrelative:OOPBankProject\\clsCurrencyCalcScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsClientListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|solutionrelative:OOPBankProject\\clsClientListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsinputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OOPBankProject\\clsinputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsCurrancy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|solutionrelative:OOPBankProject\\clsCurrancy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsUpdateCurrencyScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|solutionrelative:OOPBankProject\\clsUpdateCurrencyScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsBankClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|solutionrelative:OOPBankProject\\clsBankClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsFindCurrencyScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|solutionrelative:OOPBankProject\\clsFindCurrencyScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsShowListCurrencyScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|solutionrelative:OOPBankProject\\clsShowListCurrencyScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsFindUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|solutionrelative:OOPBankProject\\clsFindUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsFindClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|solutionrelative:OOPBankProject\\clsFindClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|solutionrelative:OOPBankProject\\clsUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|solutionrelative:OOPBankProject\\clsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsTransferRegister.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|solutionrelative:OOPBankProject\\clsTransferRegister.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsLoginRegister.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|solutionrelative:OOPBankProject\\clsLoginRegister.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsTransferScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|solutionrelative:OOPBankProject\\clsTransferScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsLoginScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|solutionrelative:OOPBankProject\\clsLoginScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsDeppositScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|solutionrelative:OOPBankProject\\clsDeppositScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsDleteUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|solutionrelative:OOPBankProject\\clsDleteUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OOPBankProject\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsPerson.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|solutionrelative:OOPBankProject\\clsPerson.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsUpdateClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|solutionrelative:OOPBankProject\\clsUpdateClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsListUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|solutionrelative:OOPBankProject\\clsListUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3887CD3D-AEF4-434A-94ED-765F7E29546C}|OOPBankProject\\OOPBankProject.vcxproj|solutionrelative:OOPBankProject\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OOPBankProject\\clsUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsAddNewClientScreen.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsAddNewClientScreen.h",
+              "RelativeDocumentMoniker": "OOPBankProject\\clsAddNewClientScreen.h",
+              "ToolTip": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsAddNewClientScreen.h",
+              "RelativeToolTip": "OOPBankProject\\clsAddNewClientScreen.h",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAiwDMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-12T13:01:50.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsAddNewUser.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsAddNewUser.h",
+              "RelativeDocumentMoniker": "OOPBankProject\\clsAddNewUser.h",
+              "ToolTip": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsAddNewUser.h",
+              "RelativeToolTip": "OOPBankProject\\clsAddNewUser.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-14T11:52:27.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsManageUserMenue.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsManageUserMenue.h",
+              "RelativeDocumentMoniker": "OOPBankProject\\clsManageUserMenue.h",
+              "ToolTip": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsManageUserMenue.h",
+              "RelativeToolTip": "OOPBankProject\\clsManageUserMenue.h",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAHUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-14T10:48:10.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsScreen.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsScreen.h",
+              "RelativeDocumentMoniker": "OOPBankProject\\clsScreen.h",
+              "ToolTip": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsScreen.h",
+              "RelativeToolTip": "OOPBankProject\\clsScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-12T12:05:12.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsShowBalanceListScreen.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsShowBalanceListScreen.h",
+              "RelativeDocumentMoniker": "OOPBankProject\\clsShowBalanceListScreen.h",
+              "ToolTip": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsShowBalanceListScreen.h",
+              "RelativeToolTip": "OOPBankProject\\clsShowBalanceListScreen.h",
+              "ViewState": "AgIAABAAAAAAAAAAAAASwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-12T14:54:10.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OOPBankProject.cpp",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\OOPBankProject.cpp",
+              "RelativeDocumentMoniker": "OOPBankProject\\OOPBankProject.cpp",
+              "ToolTip": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\OOPBankProject.cpp",
+              "RelativeToolTip": "OOPBankProject\\OOPBankProject.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-30T18:17:01.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsUpdateUserScreen.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsUpdateUserScreen.h",
+              "RelativeDocumentMoniker": "OOPBankProject\\clsUpdateUserScreen.h",
+              "ToolTip": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsUpdateUserScreen.h",
+              "RelativeToolTip": "OOPBankProject\\clsUpdateUserScreen.h",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAAAHYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-14T12:52:52.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsWithdrawScreen.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsWithdrawScreen.h",
+              "RelativeDocumentMoniker": "OOPBankProject\\clsWithdrawScreen.h",
+              "ToolTip": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsWithdrawScreen.h",
+              "RelativeToolTip": "OOPBankProject\\clsWithdrawScreen.h",
+              "ViewState": "AgIAADgAAAAAAAAAAAAUwD4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-13T20:26:53.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Global.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\Global.h",
+              "RelativeDocumentMoniker": "OOPBankProject\\Global.h",
+              "ToolTip": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\Global.h",
+              "RelativeToolTip": "OOPBankProject\\Global.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-20T17:15:24.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsTransactionScreen.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsTransactionScreen.h",
+              "RelativeDocumentMoniker": "OOPBankProject\\clsTransactionScreen.h",
+              "ToolTip": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsTransactionScreen.h",
+              "RelativeToolTip": "OOPBankProject\\clsTransactionScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-12T14:31:55.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsDeleteClientScreen.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsDeleteClientScreen.h",
+              "RelativeDocumentMoniker": "OOPBankProject\\clsDeleteClientScreen.h",
+              "ToolTip": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsDeleteClientScreen.h",
+              "RelativeToolTip": "OOPBankProject\\clsDeleteClientScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-12T13:24:04.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "clsCurrencyExchange.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsCurrencyExchange.h",
+              "RelativeDocumentMoniker": "OOPBankProject\\clsCurrencyExchange.h",
+              "ToolTip": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsCurrencyExchange.h",
+              "RelativeToolTip": "OOPBankProject\\clsCurrencyExchange.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-27T09:01:20.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "clsCurrencyCalcScreen.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsCurrencyCalcScreen.h",
+              "RelativeDocumentMoniker": "OOPBankProject\\clsCurrencyCalcScreen.h",
+              "ToolTip": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsCurrencyCalcScreen.h",
+              "RelativeToolTip": "OOPBankProject\\clsCurrencyCalcScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-27T11:29:50.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "clsClientListScreen.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsClientListScreen.h",
+              "RelativeDocumentMoniker": "OOPBankProject\\clsClientListScreen.h",
+              "ToolTip": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsClientListScreen.h",
+              "RelativeToolTip": "OOPBankProject\\clsClientListScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-12T12:37:57.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "clsFindCurrencyScreen.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsFindCurrencyScreen.h",
+              "RelativeDocumentMoniker": "OOPBankProject\\clsFindCurrencyScreen.h",
+              "ToolTip": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsFindCurrencyScreen.h",
+              "RelativeToolTip": "OOPBankProject\\clsFindCurrencyScreen.h",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwC4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-27T09:44:34.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "clsTransferRegister.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsTransferRegister.h",
+              "RelativeDocumentMoniker": "OOPBankProject\\clsTransferRegister.h",
+              "ToolTip": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsTransferRegister.h",
+              "RelativeToolTip": "OOPBankProject\\clsTransferRegister.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-25T19:29:38.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "clsCurrancy.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsCurrancy.h",
+              "RelativeDocumentMoniker": "OOPBankProject\\clsCurrancy.h",
+              "ToolTip": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsCurrancy.h",
+              "RelativeToolTip": "OOPBankProject\\clsCurrancy.h",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAQwAIBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-27T08:50:25.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "clsShowListCurrencyScreen.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsShowListCurrencyScreen.h",
+              "RelativeDocumentMoniker": "OOPBankProject\\clsShowListCurrencyScreen.h",
+              "ToolTip": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsShowListCurrencyScreen.h",
+              "RelativeToolTip": "OOPBankProject\\clsShowListCurrencyScreen.h",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-27T09:19:48.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "clsUpdateCurrencyScreen.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsUpdateCurrencyScreen.h",
+              "RelativeDocumentMoniker": "OOPBankProject\\clsUpdateCurrencyScreen.h",
+              "ToolTip": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsUpdateCurrencyScreen.h",
+              "RelativeToolTip": "OOPBankProject\\clsUpdateCurrencyScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-27T10:48:12.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "clsBankClient.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsBankClient.h",
+              "RelativeDocumentMoniker": "OOPBankProject\\clsBankClient.h",
+              "ToolTip": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsBankClient.h",
+              "RelativeToolTip": "OOPBankProject\\clsBankClient.h",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAQwLMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-30T18:37:57.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "clsTransferScreen.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsTransferScreen.h",
+              "RelativeDocumentMoniker": "OOPBankProject\\clsTransferScreen.h",
+              "ToolTip": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsTransferScreen.h",
+              "RelativeToolTip": "OOPBankProject\\clsTransferScreen.h",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-25T09:34:24.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "clsLoginRegister.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsLoginRegister.h",
+              "RelativeDocumentMoniker": "OOPBankProject\\clsLoginRegister.h",
+              "ToolTip": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsLoginRegister.h",
+              "RelativeToolTip": "OOPBankProject\\clsLoginRegister.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-21T10:53:46.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "clsLoginScreen.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsLoginScreen.h",
+              "RelativeDocumentMoniker": "OOPBankProject\\clsLoginScreen.h",
+              "ToolTip": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsLoginScreen.h",
+              "RelativeToolTip": "OOPBankProject\\clsLoginScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-20T16:59:36.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "clsFindUserScreen.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsFindUserScreen.h",
+              "RelativeDocumentMoniker": "OOPBankProject\\clsFindUserScreen.h",
+              "ToolTip": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsFindUserScreen.h",
+              "RelativeToolTip": "OOPBankProject\\clsFindUserScreen.h",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-14T13:00:24.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "clsDleteUserScreen.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsDleteUserScreen.h",
+              "RelativeDocumentMoniker": "OOPBankProject\\clsDleteUserScreen.h",
+              "ToolTip": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsDleteUserScreen.h",
+              "RelativeToolTip": "OOPBankProject\\clsDleteUserScreen.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-14T12:46:45.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "clsListUserScreen.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsListUserScreen.h",
+              "RelativeDocumentMoniker": "OOPBankProject\\clsListUserScreen.h",
+              "ToolTip": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsListUserScreen.h",
+              "RelativeToolTip": "OOPBankProject\\clsListUserScreen.h",
+              "ViewState": "AgIAABQAAAAAAAAAAAASwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-14T11:25:22.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "clsUser.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsUser.h",
+              "RelativeDocumentMoniker": "OOPBankProject\\clsUser.h",
+              "ToolTip": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsUser.h",
+              "RelativeToolTip": "OOPBankProject\\clsUser.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-14T11:11:30.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "clsDeppositScreen.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsDeppositScreen.h",
+              "RelativeDocumentMoniker": "OOPBankProject\\clsDeppositScreen.h",
+              "ToolTip": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsDeppositScreen.h",
+              "RelativeToolTip": "OOPBankProject\\clsDeppositScreen.h",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-13T20:12:36.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "clsFindClientScreen.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsFindClientScreen.h",
+              "RelativeDocumentMoniker": "OOPBankProject\\clsFindClientScreen.h",
+              "ToolTip": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsFindClientScreen.h",
+              "RelativeToolTip": "OOPBankProject\\clsFindClientScreen.h",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-12T13:56:41.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "clsUpdateClientScreen.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsUpdateClientScreen.h",
+              "RelativeDocumentMoniker": "OOPBankProject\\clsUpdateClientScreen.h",
+              "ToolTip": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsUpdateClientScreen.h",
+              "RelativeToolTip": "OOPBankProject\\clsUpdateClientScreen.h",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-12T13:40:08.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "clsMainScreen.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsMainScreen.h",
+              "RelativeDocumentMoniker": "OOPBankProject\\clsMainScreen.h",
+              "ToolTip": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsMainScreen.h",
+              "RelativeToolTip": "OOPBankProject\\clsMainScreen.h",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-12T12:14:34.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "clsUtil.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsUtil.h",
+              "RelativeDocumentMoniker": "OOPBankProject\\clsUtil.h",
+              "ToolTip": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsUtil.h",
+              "RelativeToolTip": "OOPBankProject\\clsUtil.h",
+              "ViewState": "AgIAABkBAAAAAAAAAAAgwCwBAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-08T14:51:01.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "clsDate.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsDate.h",
+              "RelativeDocumentMoniker": "OOPBankProject\\clsDate.h",
+              "ToolTip": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsDate.h",
+              "RelativeToolTip": "OOPBankProject\\clsDate.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-07T11:46:34.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "clsinputValidate.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsinputValidate.h",
+              "RelativeDocumentMoniker": "OOPBankProject\\clsinputValidate.h",
+              "ToolTip": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsinputValidate.h",
+              "RelativeToolTip": "OOPBankProject\\clsinputValidate.h",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-07T11:45:28.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "clsString.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsString.h",
+              "RelativeDocumentMoniker": "OOPBankProject\\clsString.h",
+              "ToolTip": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsString.h",
+              "RelativeToolTip": "OOPBankProject\\clsString.h",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAE8BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-30T18:39:58.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "clsPerson.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsPerson.h",
+              "RelativeDocumentMoniker": "OOPBankProject\\clsPerson.h",
+              "ToolTip": "E:\\C\u002B\u002B\\OOPBankProject\\OOPBankProject\\clsPerson.h",
+              "RelativeToolTip": "OOPBankProject\\clsPerson.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-30T18:36:48.556Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
